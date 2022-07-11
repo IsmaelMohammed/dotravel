@@ -1,1 +1,1 @@
-simple travel agency website project using java.
+simple travel agency website project using java and HTML.
